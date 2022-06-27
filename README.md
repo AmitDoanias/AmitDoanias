@@ -9,6 +9,7 @@ Currently looking for my first positions as full-stack developer
 
 * Sharing update on [LinkedIn ](https://www.linkedin.com/in/amit-doanias-8aa694227/) 
 * Feel free to send an [E-mail ](amitdoanias@gmail.com)  📧
+* Feel free to send an [E-mail ](<a href="mailto:user@example.com"></a>)  📧
 
 
 
