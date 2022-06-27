@@ -8,8 +8,13 @@ Currently looking for my first positions as full-stack developer
 **Connect me 💬**
 
 * Sharing update on [LinkedIn ](https://www.linkedin.com/in/amit-doanias-8aa694227/) 
-* Feel free to send an [E-mail ](amitdoanias@gmail.com)  📧
-[user@example.com](mailto:user@example.com)
+* Feel free to send an [E-mail ](mailto:amitdoanias@gmail.com)  📧
+
+
+
+
+
+
 
 
 
