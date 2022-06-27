@@ -1,5 +1,7 @@
 ### Hi there 👋
-i'm Amit Doanias , i'm looking for my next challenge in Frontend/ Full stack development positions.
+i'm Amit Doanias , i'm looking for my next challenge in Frontend / Full stack development positions.
+<hr>
+just a test 
 
 <!--
 **AmitDoanias/AmitDoanias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
