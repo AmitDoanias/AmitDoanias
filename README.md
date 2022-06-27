@@ -1,5 +1,18 @@
-### Hi there 👋
-i'm Amit Doanias , i'm looking for my next challenge in Frontend / Full stack development positions.
+### **Hi 🙋🏼‍♂️,i'm Amit Doanias**
+i'm looking for my next challenge in Frontend / Full stack development positions.
+
+I'm full-stack developer with a passionate interest in projects requiring conceptual and analytical thinking.
+
+Currently looking for my first positions as full-stack developer
+
+**Connect me 💬**
+
+* Sharing update on [LinkedIn ](https://www.linkedin.com/in/amit-doanias-8aa694227/) 
+* Feel free to send an [E-mail ](amitdoanias@gmail.com)  📧
+
+
+
+
 
 
 <!--
