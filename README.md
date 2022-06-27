@@ -10,7 +10,6 @@ Currently looking for my first positions as full-stack developer
 * Sharing update on [LinkedIn ](https://www.linkedin.com/in/amit-doanias-8aa694227/) <img src="https://user-images.githubusercontent.com/102167882/175963766-d026bbad-6c9b-44f7-aaf2-103079bf0ce2.png" width="15" height="15" title="hover text">
 * Feel free to send an [E-mail ](mailto:amitdoanias@gmail.com)  📧
 
-* Sharing update on [LinkedIn ](https://www.linkedin.com/in/amit-doanias-8aa694227/) <img src="https://user-images.githubusercontent.com/102167882/175965096-eb92e586-ca30-422e-97bd-9dfb2b54eb8b.svg" width="15" height="15" title="hover text">
 
 
 
