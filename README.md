@@ -95,4 +95,7 @@ Currently looking for my first positions as full-stack developer
     </tbody>
 </table>
 
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitdoanias&layout=compact"/> -->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=amitdoanias&show_icons=true&theme=dark"/> -->
 
