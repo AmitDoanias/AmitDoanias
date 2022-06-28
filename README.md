@@ -1,19 +1,21 @@
-### **Hi 🙋🏼‍♂️,i'm Amit Doanias**
+<!-- ### **Hi 🙋🏼‍♂️,i'm Amit Doanias** -->
+<h3>Hi 🙋🏼‍♂️,i'm Amit Doanias</h3>
 i'm looking for my next challenge in Frontend / Full stack development positions.
 
 I'm full-stack developer with a passionate interest in projects requiring conceptual and analytical thinking.
 
 Currently looking for my first positions as full-stack developer
 
-**Connect me 💬**
+<!-- **Connect me 💬** -->
+<h4>Connect me 💬</h4>
 
 * Sharing update on [LinkedIn ](https://www.linkedin.com/in/amit-doanias-8aa694227/) <img src="https://user-images.githubusercontent.com/102167882/175963766-d026bbad-6c9b-44f7-aaf2-103079bf0ce2.png" width="15" height="15" title="hover text">
 * Feel free to send an [E-mail ](mailto:amitdoanias@gmail.com)  📧
 
 
 
-**Languages and Tools:**
-<!-- <h3 align="center">Languages and Tools</h3> -->
+<!-- **Languages and Tools:** -->
+<h4>Languages and Tools</h4>
 
 <!-- <table border="0">
   <tr>
