@@ -4,7 +4,6 @@ i'm looking for my next challenge in Frontend / Full stack development positions
 
 I'm full-stack developer with a passionate interest in projects requiring conceptual and analytical thinking.
 
-Currently looking for my first positions as full-stack developer
 
 <!-- **Connect me 💬** -->
 <h4>Connect me 💬</h4>
